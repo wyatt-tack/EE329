@@ -1,0 +1,15 @@
+../Core/Src/main.c:36:5:main	24	static
+../Core/Src/main.c:69:6:HomeScreen	64	static
+../Core/Src/main.c:86:6:sendHexData	16	static
+../Core/Src/main.c:91:6:sendVoltData	16	static
+../Core/Src/main.c:96:6:sendCurrentData	24	static
+../Core/Src/main.c:109:6:parseSendHex	24	static
+../Core/Src/main.c:131:6:parseSendVolt	24	static
+../Core/Src/main.c:155:6:Led_Config	4	static
+../Core/Src/main.c:167:6:Output_Config	4	static
+../Core/Src/main.c:180:6:Button_Config	4	static
+../Core/Src/main.c:189:10:maxVal	24	static
+../Core/Src/main.c:197:10:minVal	24	static
+../Core/Src/main.c:205:10:avgVal	32	static
+../Core/Src/main.c:215:6:SystemClock_Config	96	static
+../Core/Src/main.c:255:6:Error_Handler	4	static,ignoring_inline_asm

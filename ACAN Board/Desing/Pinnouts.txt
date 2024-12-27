@@ -1,0 +1,4 @@
+500Hz ADC2-CH13 - PTA5 (225Hz Sallen Key)
+100Hz ADC1-CH4 - PTA3 (40Hz Sallen Key)
+500Hz ADC2-CH4 - PTA7 (Buffer)
+500Hz ADC2-Ch11 - PTC5 (Buffer)

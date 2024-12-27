@@ -1,0 +1,2 @@
+../Core/Src/adc.c:22:6:ADC_init	3
+../Core/Src/adc.c:58:6:ADC1_2_IRQHandler	3

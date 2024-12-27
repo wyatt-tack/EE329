@@ -1,0 +1,7 @@
+../Core/Src/lcd.c:21:6:LCD_init	2
+../Core/Src/lcd.c:53:6:LCD_pulse_ENA	1
+../Core/Src/lcd.c:62:6:LCD_4b_command	1
+../Core/Src/lcd.c:70:6:LCD_command	1
+../Core/Src/lcd.c:84:6:LCD_write_char	1
+../Core/Src/lcd.c:92:6:LCD_set_cursor	2
+../Core/Src/lcd.c:109:6:LCD_write_string	2

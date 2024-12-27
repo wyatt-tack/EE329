@@ -1,0 +1,4 @@
+../Core/Src/main.c:28:6:main	32	static
+../Core/Src/main.c:74:10:TestFunction	24	static
+../Core/Src/main.c:92:6:SystemClock_Config	96	static
+../Core/Src/main.c:140:6:Error_Handler	4	static,ignoring_inline_asm

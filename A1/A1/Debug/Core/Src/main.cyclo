@@ -1,0 +1,4 @@
+../Core/Src/main.c:28:6:main	4
+../Core/Src/main.c:74:10:TestFunction	1
+../Core/Src/main.c:92:6:SystemClock_Config	4
+../Core/Src/main.c:140:6:Error_Handler	1

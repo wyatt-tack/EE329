@@ -1,0 +1,4 @@
+../Core/Src/timer.c:20:6:TIM2_IRQHandler	4	static
+../Core/Src/timer.c:35:6:setup_RNG	4	static
+../Core/Src/timer.c:43:6:setup_TIM2	16	static,ignoring_inline_asm
+../Core/Src/timer.c:55:6:setup_MCO_CLK	4	static
